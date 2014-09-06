@@ -81,7 +81,7 @@ section.second {
   height: 500px;
 }
 section.third {
-  background: url('../img/Golden_Gate.jpg') no-repeat center center fixed;
+  background: url('../img/golden-gate.jpg') no-repeat center center fixed;
   background-size: cover;
 }
 section.fourth {
