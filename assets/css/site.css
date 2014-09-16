@@ -111,3 +111,7 @@ section h1 {
   height: auto;
   width: auto;
 }
+
+.project_info {
+  font-size: 15px;
+}
